@@ -1,0 +1,58 @@
+[
+  {
+    "content": "Machine learning is a subset of artificial intelligence that enables computers to learn and make decisions without being explicitly programmed. It uses algorithms to identify patterns in data and make predictions or decisions based on those patterns.",
+    "title": "Introduction to Machine Learning",
+    "category": "AI/ML",
+    "author": "John Doe",
+    "date": "2024-01-15"
+  },
+  {
+    "content": "Deep learning is a type of machine learning that uses neural networks with multiple layers to model and understand complex patterns in data. It has been particularly successful in image recognition, natural language processing, and speech recognition tasks.",
+    "title": "Deep Learning Fundamentals",
+    "category": "AI/ML",
+    "author": "Jane Smith",
+    "date": "2024-01-20"
+  },
+  {
+    "content": "Natural Language Processing (NLP) is a branch of artificial intelligence that helps computers understand, interpret, and manipulate human language. It combines computational linguistics with statistical, machine learning, and deep learning models.",
+    "title": "Natural Language Processing Overview",
+    "category": "NLP",
+    "author": "Mike Johnson",
+    "date": "2024-01-25"
+  },
+  {
+    "content": "Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with text generation. It first retrieves relevant documents from a knowledge base and then uses them as context to generate more accurate and informative responses.",
+    "title": "RAG Systems Explained",
+    "category": "AI/ML",
+    "author": "Sarah Wilson",
+    "date": "2024-02-01"
+  },
+  {
+    "content": "Vector databases are specialized databases designed to store and retrieve high-dimensional vector embeddings efficiently. They are essential for semantic search, recommendation systems, and AI applications that require similarity-based retrieval.",
+    "title": "Vector Databases in AI",
+    "category": "Databases",
+    "author": "David Brown",
+    "date": "2024-02-05"
+  },
+  {
+    "content": "Gemini AI is Google's most advanced AI model, capable of understanding and generating text, images, audio, and video. It can handle complex reasoning tasks and is designed to be helpful, honest, and harmless in its responses.",
+    "title": "Understanding Gemini AI",
+    "category": "AI/ML",
+    "author": "Lisa Chen",
+    "date": "2024-02-10"
+  },
+  {
+    "content": "ChromaDB is an open-source embedding database that makes it easy to build AI applications with embeddings. It provides a simple API for storing and retrieving vector embeddings with metadata, making it ideal for RAG applications.",
+    "title": "ChromaDB for Vector Storage",
+    "category": "Databases",
+    "author": "Tom Anderson",
+    "date": "2024-02-15"
+  },
+  {
+    "content": "Sentence transformers are neural network models that convert sentences and paragraphs into vector embeddings. They are trained to capture semantic meaning, making them perfect for semantic search and similarity matching tasks.",
+    "title": "Sentence Transformers Guide",
+    "category": "NLP",
+    "author": "Emma Davis",
+    "date": "2024-02-20"
+  }
+]
